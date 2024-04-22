@@ -1,8 +1,6 @@
 variavel,descricao,tipo,subtipo
-species,Nome da espécie,qualitativa,nominal
-island,Nome da ilha onde foi feita a medição,qualitativa,nominal
-bill_length_mm,Comprimento de bico em milímetros,quantitativa,continua
-bill_depth_mm,Profundidade (altura) de bico em milímetros,quantitativa,continua
-flipper_length_mm,Comprimento de nadadeira em milímetros,quantitativa,continua
-body_mass_g,Massa corporal (peso em gramas),quantitativa,continua
-sex,Sexo dos indivíduos,qualitativa,nominal
+subject,Identificação única do participante do estudo,qualitativa,nominal
+timepoint,Intervalo de tempo entre aquisições de imagens fMRI,quantitativa,discreta
+event,Tipo de estímulo visual apresentado durante a ressonância magnética funcional,qualitativa,nominal
+region,Parte específica do cérebro observada ou analisada,qualitativa,nominal
+signal,Atividade cerebral medida pela ressonância magnética funcional (fMRI) em resposta aos estímulos visuais,quantitativa,contínua
