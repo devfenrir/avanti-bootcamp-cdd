@@ -1,15 +1,9 @@
-# <Título do projeto>
+# Bootcamp de Ciência de Dados Avanti
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Aqui há uma análise de dados exploratória do dataser "fMRI". O conjunto de dados "fMRI" refere-se a um conjunto de dados que provavelmente contém informações relacionadas a ressonância magnética funcional (fMRI, do inglês functional Magnetic Resonance Imaging). A fMRI é uma técnica de imagem cerebral que mede a atividade do cérebro detectando mudanças no fluxo sanguíneo. Esse tipo de imagem é frequentemente utilizado em estudos de neurociência para examinar como diferentes partes do cérebro respondem a estímulos ou tarefas específicas.
 
-## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
-
----
+## Desenvolvedor
+ - [Eduardo Batista de Lima](https://github.com/devfenrir)
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
@@ -111,3 +105,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+
